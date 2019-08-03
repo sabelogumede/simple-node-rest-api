@@ -1,0 +1,5 @@
+#Ignore file named `package-lock.json`
+package-lock.json
+
+#Dependency directories
+node_modules/
